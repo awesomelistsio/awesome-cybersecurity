@@ -119,6 +119,7 @@ Cybersecurity is essential to securing digital infrastructure, ensuring privacy,
 - **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Tools and resources for personal data protection.
 - **[Awesome Digital Rights](https://github.com/awesomelistsio/awesome-digital-rights)** – Advocacy tools and organizations defending online rights.
 - **[Awesome Threat Intelligence](https://github.com/awesomelistsio/awesome-threat-intelligence)** – Curated resources for threat intel.
+- **[Awesome SOC](https://github.com/cyb3rxp/awesome-soc)** - A curated knowledge base to build, run and mature a SOC (including CSIRT).
 
 ## Contribute
 
